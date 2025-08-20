@@ -1,0 +1,23 @@
+# Foundry
+cache/
+out/
+lib/
+
+# Environment files
+.env
+.env.*
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Node (if using)
+node_modules/
+npm-debug.log*
+
+# Logs
+*.log
